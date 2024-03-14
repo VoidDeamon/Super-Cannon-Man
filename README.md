@@ -28,7 +28,7 @@ Game Controls:
 
     Mouse 1 -  Charge Shot (release to fire) / Recall Electro-Ball
 
-    Escape - Open Menu (Navigate with W and S or the Up and Down Arrows, Enter to select)
+    Escape - Open Menu (Navigate with W and S, Enter to select)
 
 Instructions:
 
