@@ -24,7 +24,11 @@ Game Controls:
 
     E - Swap Ball
 
-    Mouse 1: Charge Shot (release to fire) / Recall Electro-Ball
+    Use Mouse To Aim Cannon
+
+    Mouse 1 -  Charge Shot (release to fire) / Recall Electro-Ball
+
+    Escape - Open Menu (Navigate with W and S or the Up and Down Arrows, Enter to select)
 
 Instructions:
 
